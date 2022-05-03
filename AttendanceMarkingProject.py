@@ -4,6 +4,7 @@ import face_recognition
 import os
 from datetime import datetime
 
+
 path='Image Database'
 images = []
 classNames = []
